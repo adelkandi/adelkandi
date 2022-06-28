@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adel Kandi
 - 👀 I’m interested in Programing :,AI "with python" ,Networking, Math softwares 
-- 🌱 I’m currently learning Python,C++
+- 🌱 I’m currently learning Python,C++, Mathlab ,IoT, AI , GUI apps ,Cryptography
 - 💞️ I’m looking to collaborate on some Networking and AI projects and other projects
 - 📫 How to reach me :FB:https://www.facebook.com/adel.kandi.9
 instagram:https://www.instagram.com/adel.kandi/?hl=fr

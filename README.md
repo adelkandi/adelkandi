@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
+
 - 👋 Hi, I’m Adel Kandi
 - 👀 I’m interested in Programing :,AI "with python" ,Networking, Math softwares 
 - 🌱 I’m currently learning Python,C++, Mathlab ,IoT, AI , GUI apps ,Cryptography

@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=adelkandi.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=adelkandi.visitor-badge)
 
 
 - 👋 Hi, I’m Adel Kandi

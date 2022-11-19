@@ -5,9 +5,8 @@
 - 👀 I’m interested in Programing :,AI "with python" ,Networking, Math softwares 
 - 🌱 I’m currently learning Python,C++, Mathlab ,IoT, AI , GUI apps ,Cryptography
 - 💞️ I’m looking to collaborate on some Networking and AI projects and other projects
-- 📫 How to reach me :FB:https://www.facebook.com/adel.kandi.9
-instagram:https://www.instagram.com/adel.kandi/?hl=fr
-
+- 📫 How to reach me : **Email: adelkandi68@gmail.com**
+_____________________________________________________________________________________________________
 <!---
 SDHIGHway/SDHIGHway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

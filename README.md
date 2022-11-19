@@ -12,5 +12,5 @@ SDHIGHway/SDHIGHway is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adelkandi&theme=gruvbox)](https://github.com/adelkandi/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelkandi&layout=compact&theme=gruvbox)
-[![trophy](https://github-profile-trophy.vercel.app/?username=adelkandi-ma&theme=onedark)](https://github-profile-trophy.vercel.app/?username=adelkandi&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelkandi&layout=compact&theme=gruvbox)gruvbox
+[![trophy](https://github-profile-trophy.vercel.app/?username=adelkandu&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)

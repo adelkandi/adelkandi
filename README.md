@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Adel Kandi
 - 👀 I’m interested in Programing : AI "with python" ,Networking, Math softwares 
-- 🌱 I’m currently learning : Python,C++, Mathlab ,IoT, AI , GUI apps ,Cryptography,Cisco
+- 🌱 I’m currently learning : Python,C++, Mathlab ,,Assembly,IoT, AI , GUI apps ,Cryptography,Cisco
 - 💞️ I’m looking to collaborate on : some Networking and AI projects and other projects
 - 📫 How to reach me : **Email: adelkandi68@gmail.com**
 _____________________________________________________________________________________________________

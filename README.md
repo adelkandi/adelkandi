@@ -23,12 +23,16 @@ I enjoy building practical software solutions and exploring the intersection of 
 - C#
 - JavaScript
 - TypeScript
+- PHP
 - Assembly
 
 **Web Development**
 - HTML
 - CSS / Tailwind
 - React
+- C# .NET (MVC)
+- PHP Laravel
+- Python Flask
 - Node.js
 - REST APIs
 

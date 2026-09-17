@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Adel Kandi
 
-💻 **Web Development Student at Algonquin College** with a background in Networks and Telecommunications and hands-on experience in **network infrastructure, software development, and web technologies**.
+💻 **Full Stack Developer** with a background in Networks and Telecommunications and hands-on experience in **network infrastructure, software development, and web technologies**.
 
 I enjoy building practical software solutions and exploring the intersection of **networks, automation, and intelligent systems**.
 

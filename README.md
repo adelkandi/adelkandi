@@ -73,4 +73,4 @@ I’m always open to collaborating on projects related to:
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelkandi&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adelkandi&theme=)

@@ -25,6 +25,7 @@ I enjoy building practical software solutions and exploring the intersection of 
 - TypeScript
 - PHP
 - Assembly
+- Verilog/SystemVerilog
 
 **Web Development**
 - HTML
